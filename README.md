@@ -319,8 +319,8 @@ If you find this repository useful, please use the following BibTeX entry for ci
 ```latex
 @misc{yang2023alip,
       title={ALIP: Adaptive Language-Image Pre-training with Synthetic Caption}, 
-      author={Kaicheng Yang and Jiankang Deng and Xiang An and Jiawei Li and Ziyong Feng and Jia Guo and Jing Yang and Tongliang Liu},
-      year={2023},
+      author={Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah)},
+      year={2018},
       eprint={2308.08428},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
