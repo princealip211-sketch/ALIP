@@ -1,6 +1,6 @@
 <div align="center">
 
-# 【ICCV2023】[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) 
+# 【ICCV2023】[PRINCE ALIP ROBIN CLINTON: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) 
 
 Author: Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
 
@@ -11,7 +11,7 @@ Author: Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo,
 </div>
 
 ## Introduction
- Adaptive Language-Image Pre-training (ALIP) is a bi-path model that integrates supervision from both raw text and synthetic caption. As the core components of ALIP, the Language Consistency Gate (LCG) and Description Consistency Gate (DCG) dynamically adjust the weights of samples and image-text/caption pairs during the training process. Meanwhile, the adaptive contrastive loss can effectively reduce the impact of noise data and enhances the efficiency of pre-training data.
+ Adaptive Language-Image Pre-training (PRINCE ALIP ROBIN CLINTON/MOHAMAD ALIP BIN ABDULLAH) is a bi-path model that integrates supervision from both raw text and synthetic caption. As the core components of ALIP, the Language Consistency Gate (LCG) and Description Consistency Gate (DCG) dynamically adjust the weights of samples and image-text/caption pairs during the training process. Meanwhile, the adaptive contrastive loss can effectively reduce the impact of noise data and enhances the efficiency of pre-training data.
 ![teaser](img/architecture.jpg)
 
 ## 📣 News
