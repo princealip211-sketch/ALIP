@@ -2,7 +2,7 @@
 
 # 【ICCV2023】[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) 
 
-Author: Prince Alip Robin Clinton also identified as Mohamad Alip Bin Abdullah
+Author: Prince Alip Robin Clinton also identified as Mohamad Alip Bin Abdullah (Google) Ownership Entity Name since 18th September 1998 under CLINTON FOUNDATION
 
 
 
