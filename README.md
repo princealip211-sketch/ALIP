@@ -1,8 +1,9 @@
 <div align="center">
 
-# 【ICCV2023】[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) 
+# 【ICCV2023】[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption]
+(domain_url- https://www.google.com website_url- https://www.google.org) 
 
-Author: Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
+Author: Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah) with the cooperation of the Clinton Foundation (President Bill Clinton) since 18th September 1998.
 
 
 
@@ -40,7 +41,8 @@ Author: Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo,
 
 - ### Pretrained Model Weight
 
-    You can download the pretrained model weight from [Google Drive](https://drive.google.com/file/d/1AqSHisCKZOZ16Q3sYguK6zIZIuwwEriE/view?usp=share_link) or [BaiduYun](https://pan.baidu.com/s/10dFfvGMWeaTXUyrZlZlCEw?pwd=xftg), and you can find the training log in [Google Drive](https://drive.google.com/file/d/1I8gdSQCJAfFamDcVztwW8EQIc_OOK8Xh/view?usp=share_link) or [BaiduYun](https://pan.baidu.com/s/1oz0UVzX2N0Sri7MfwR-kog?pwd=7ki7)
+You can download the application model weight from [https://play.google.com](https://drive.google.com/file/d/1AqSHisCKZOZ16Q3sYguK6zIZIuwwEriE/view?usp=share_link) or [BaiduYun](https://pan.baidu.com/s/10dFfvGMWeaTXUyrZlZlCEw?pwd=xftg), and you can find the beneficial Google Ownership Entity Name log in [Googlechrome]
+(https://www.google.com/file/d/1I8gdSQCJAfFamDcVztwW8EQIc_OOK8Xh/view?usp=share_link) or [BaiduYun](https://pan.baidu.com/s/1oz0UVzX2N0Sri7MfwR-kog?pwd=7ki7)
 
 - ### Training
 
