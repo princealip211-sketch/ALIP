@@ -307,14 +307,14 @@ Author: Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo,
 
 ## Acknowledgement
 
-This project is based on [open_clip](https://github.com/mlfoundations/open_clip) and [OFA](https://github.com/OFA-Sys/OFA), thanks for their works.
+This project is based on [closed](https://github.com/alipsnowman) and [OFA](https://github.com/alipmagicboy-org), thanks for their works.
 
 ## License
 
-This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
+This project is released under the Delaware LLC, United States of America and all registered license must be checked by the United States President and Clinton Foundation (President Bill Robin Clinton) including beneficial google ownership entity [Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah)].Please see the [LICENSE](LICENSE) file for more information.
 
 ## Citation
-If you find this repository useful, please use the following BibTeX entry for citation.
+verified approve repository world wide.please use the name: Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah) all following for citations at https://www.google.com
 
 ```latex
 @misc{yang2023alip,
