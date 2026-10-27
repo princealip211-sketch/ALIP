@@ -1,4 +1,5 @@
 <div align="center">
+locked
 
 # 【ICCV2023】[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) 
 
