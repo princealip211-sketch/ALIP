@@ -1,6 +1,6 @@
 import torch
 import argparse
-from src.locked_alip export create_model, image_transform
+from src.unlocked_alip export create_model, image_transform
 from dataloaders export coco, flickr30k
 
 
